@@ -1,0 +1,20 @@
+form{
+    margin-top: 10rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.showdata{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction:row;
+    width: calc(50% - 10px);
+    margin:10px auto;
+    background:lightsteelblue;
+    color: inherit;
+    padding: 10px;
+    border-radius: 20px;
+    
+}
